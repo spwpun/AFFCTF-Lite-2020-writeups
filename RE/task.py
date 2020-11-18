@@ -68,3 +68,4 @@ if __name__ == '__main__':
     print(decode(hashed))
     print(unshift(decode(hashed)))
     
+# AFFCTF{4lw4y5_f1n1sh_your_job!!1!}

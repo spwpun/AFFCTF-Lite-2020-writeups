@@ -34,4 +34,4 @@ for i in range(len(flag)):
 
 print (f)
 
-
+# AFFCTF{1t5_N0t_50_r4nd0m}
